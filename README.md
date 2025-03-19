@@ -93,6 +93,7 @@ The implementation follows object-oriented design principles:
     * Flexibility: Different implementations can be swapped easily
     * Clear Contracts: Interfaces define clear expectations
     * Maintainability: Changes are isolated to specific implementations
-Conclusion
+      
+# Conclusion
 This slot machine simulator demonstrates a comprehensive implementation of a gaming system with proper architecture and design principles.   
 The code is structured for maintainability and extensibility, making it easy to adjust parameters or add new features.
