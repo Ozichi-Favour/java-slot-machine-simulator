@@ -1,0 +1,22 @@
+# Compiled output
+out/
+*.class
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+SlotMachineSimulator.iml
+
+# MacOS files
+.DS_Store
+
+# FernFlower decompiler output
+*.class.txt
+
+# Other potential IDE files
+*.classpath
+*.project
+.settings/
+
+# Log files
+*.log
