@@ -18,7 +18,7 @@ Prerequisites
 * Java Development Kit (JDK) 8 or higher
 
 ## Compilation
-Navigate to the src directory and compile all Java files with:
+Navigate to the src directory and compile all Java files with:  
 `javac -d out Main.java slotmachine/*.java slotmachine/*/*.java`  
 This will place the compiled class files inside an out directory.
 
@@ -27,7 +27,7 @@ Once compiled, run the simulator with:
 `java -cp out Main`
 
 ## All-in-One Command
-For convenience, use a single command:
+For convenience, use a single command:  
 `javac -d out Main.java slotmachine/*.java slotmachine/*/*.java && java -cp out Main`  
 
 
